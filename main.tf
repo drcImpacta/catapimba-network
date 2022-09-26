@@ -17,5 +17,6 @@ module "vpc" {
     Environment = "dev"
     Name        = "catapimba-corps"
     CC		= "10501"
+    Owner = "Douglas"
   }
 }
